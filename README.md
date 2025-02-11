@@ -1,2 +1,7 @@
-# hg-2-charlie
-Hack 2 pull request para Social Oplesk
+# Charlie
+
+| Nombre               | Ubicación  |
+| -------------------- | ---------- |
+| Randy Parra          | Caracas    |
+| José Alfredo Azuaje  | Caracas    |
+| Gilmar Betancourt    | Caracas    |
